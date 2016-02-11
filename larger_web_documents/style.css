@@ -1,0 +1,31 @@
+* {
+  border: 1px solid red;
+}
+
+div {
+    padding: 10px;
+    margin: 30px;
+    box-sizing: border-box;
+    width: 600px;
+    height: 600px;
+}
+
+h1, p {
+  width: 200px;
+  text-align: center;
+}
+
+img {
+  height: 400px;
+  width: 300px;
+}
+
+#container {
+  width:960px;
+  /*margin: 0 auto;*/
+}
+
+#outerMost {
+  background-color: blue;
+}
+
