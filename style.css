@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: navy;
+  color: white;
+}
+
+.person {
+  font-size: 100px;
+}
+
+li {
+  font-size: 30px;
+}
